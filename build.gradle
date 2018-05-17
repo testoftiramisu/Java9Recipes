@@ -1,0 +1,28 @@
+group 'Java9Recipes'
+version '0.1'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.9
+
+ext.junitVintageVersion = '5.1.1'
+ext.junitPlatformVersion = '1.1.1'
+ext.junitJupiterVersion = '5.1.1'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // JUnit Jupiter API and TestEngine implementation
+    testCompile("org.junit.jupiter:junit-jupiter-api:${junitJupiterVersion}")
+    testRuntime("org.junit.jupiter:junit-jupiter-engine:${junitJupiterVersion}")
+
+    // Allows JUnit 3 and JUnit 4 tests to run
+    testRuntime("org.junit.vintage:junit-vintage-engine:${junitVintageVersion}")
+
+    // Allows tests to run from IDEs that bundle older version of launcher
+    testRuntime("org.junit.platform:junit-platform-launcher:${junitPlatformVersion}")
+
+    testCompile 'org.assertj:assertj-core:3.9.0'
+}
