@@ -1,5 +1,6 @@
 package io.testoftiramisu.java9recipes.chapter01.recipe02;
 
+/** Demonstrates an example of variable declaration for each primitive type in Java. */
 public class DeclarationExample {
 
   public static void main(String... args) {

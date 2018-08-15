@@ -1,8 +1,8 @@
 package io.testoftiramisu.java9recipes.chapter01.recipe01;
 
 /**
- * Demonstrated the usage of {@link HelloMessage} class by setting the message value and by showing
- * it to the user via standard output.
+ * Demonstrates an usage of {@link HelloMessage} class by setting the message value and by showing
+ * it to a user via standard output.
  */
 public class HelloWorld {
 

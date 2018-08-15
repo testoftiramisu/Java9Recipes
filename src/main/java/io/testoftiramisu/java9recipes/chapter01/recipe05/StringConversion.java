@@ -1,12 +1,17 @@
 package io.testoftiramisu.java9recipes.chapter01.recipe05;
 
+/**
+ * Demonstrates type conversion from String to double and vice-versa.
+ *
+ * <p>The representation of {@code String.valueOf(double)} is exactly the one returned by the {@code
+ * Double.toString()} method of one argument.
+ */
 public class StringConversion {
 
   /**
-   * Demonstrates type conversion from String to double and vice-versa.
+   * Application main entry point.
    *
-   * <p>The representation of {@code String.valueOf(double)} is exactly the one returned by the
-   * {@code Double.toString()} method of one argument.
+   * @param args not used
    */
   public static void main(String... args) {
     double pi;

@@ -3,7 +3,11 @@ package io.testoftiramisu.java9recipes.chapter01.recipe06;
 /** Demonstrates the ability of Java to get command line arguments during the program start. */
 public class ArgumentsPassing {
 
-  /** Application main entry point. */
+  /**
+   * Application main entry point.
+   *
+   * @param args an argument passed to the program.
+   */
   public static void main(String... args) {
     if (args.length > 0) {
       System.out.println("Arguments passed to the program: ");

@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.assertThat;
  *
  * For illustration purposes only!
  *
- * Beware: References to static methods and fields via class instance rather than a class itself
+ * Beware: references to static methods and fields from class instance rather than a class itself
  * considered as a bad practice and shouldn't be used in production code.
  */
 class StaticDemoTest {

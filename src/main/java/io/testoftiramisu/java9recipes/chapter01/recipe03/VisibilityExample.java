@@ -1,5 +1,6 @@
 package io.testoftiramisu.java9recipes.chapter01.recipe03;
 
+/** An example of how to control field visibility with private keyword. */
 class InnerClass {
   double visibleFromEntirePackage;
   private long visibleOnlyInThisClass;
@@ -13,6 +14,10 @@ class InnerClass {
   }
 }
 
+/**
+ * Demonstrates an access to class field that visible from entire package and to the field that
+ * accessible only trough getter and setter.
+ */
 public class VisibilityExample {
 
   private static final double PI = 3.14159265359;

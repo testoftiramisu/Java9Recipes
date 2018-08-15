@@ -2,7 +2,7 @@ package io.testoftiramisu.java9recipes.chapter01.recipe09.oop;
 
 import java.util.Map;
 
-public class App {
+class App {
 
   private boolean exit = false;
 
@@ -18,6 +18,12 @@ public class App {
         + "/exit for exiting the application. ";
   }
 
+  /**
+   * Validates user input and returns list of environment variables, help information, message about
+   * incorrect input or value of given environment variable if such variable exist in system.
+   *
+   * @param input from command line as a String
+   */
   String checkInput(String input) {
     switch (input) {
       case "/list":
