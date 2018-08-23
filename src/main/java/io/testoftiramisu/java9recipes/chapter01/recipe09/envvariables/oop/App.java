@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe09.oop;
+package io.testoftiramisu.java9recipes.chapter01.recipe09.envvariables.oop;
 
 import java.util.Map;
 

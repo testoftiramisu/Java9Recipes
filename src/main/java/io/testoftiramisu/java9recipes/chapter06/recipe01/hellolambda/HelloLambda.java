@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter06.recipe01;
+package io.testoftiramisu.java9recipes.chapter06.recipe01.hellolambda;
 
 public class HelloLambda {
 

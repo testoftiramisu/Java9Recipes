@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe01;
+package io.testoftiramisu.java9recipes.chapter01.recipe01.hello;
 
 /** A simple JavaBeans-Style class for storing {@link String} based message. */
 class HelloMessage {

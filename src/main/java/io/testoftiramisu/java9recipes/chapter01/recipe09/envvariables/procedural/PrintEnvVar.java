@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe09.procedural;
+package io.testoftiramisu.java9recipes.chapter01.recipe09.envvariables.procedural;
 
 import java.io.BufferedReader;
 import java.io.IOException;

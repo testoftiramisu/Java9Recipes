@@ -1,5 +1,9 @@
-package io.testoftiramisu.java9recipes.chapter02.recipe01;
+package io.testoftiramisu.java9recipes.chapter02.recipe01.interfaces;
 
+/**
+ * Demonstrates a newly introduced functionality of Java 9: ability to include private methods
+ * within an interface.
+ */
 public interface Pool {
 
   /** Calculates volume (gal) for a fixed depth square or rectangular pool. */

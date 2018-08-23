@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe04;
+package io.testoftiramisu.java9recipes.chapter01.recipe04.staticfields;
 
 /**
  * Example of a class with static field – a single value that is shared by all instances of the

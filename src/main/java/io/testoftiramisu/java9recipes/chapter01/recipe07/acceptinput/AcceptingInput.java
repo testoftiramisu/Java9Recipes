@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe07;
+package io.testoftiramisu.java9recipes.chapter01.recipe07.acceptinput;
 
 import java.io.BufferedReader;
 import java.io.IOException;

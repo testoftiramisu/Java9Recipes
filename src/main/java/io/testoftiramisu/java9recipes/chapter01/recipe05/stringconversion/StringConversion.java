@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe05;
+package io.testoftiramisu.java9recipes.chapter01.recipe05.stringconversion;
 
 /**
  * Demonstrates type conversion from String to double and vice-versa.

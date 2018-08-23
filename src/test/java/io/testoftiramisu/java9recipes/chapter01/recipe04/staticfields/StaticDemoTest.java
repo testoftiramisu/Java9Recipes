@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe04;
+package io.testoftiramisu.java9recipes.chapter01.recipe04.staticfields;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

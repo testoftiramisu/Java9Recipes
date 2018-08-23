@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe06;
+package io.testoftiramisu.java9recipes.chapter01.recipe06.argumentpassing;
 
 /** Demonstrates the ability of Java to get command line arguments during the program start. */
 public class ArgumentsPassing {

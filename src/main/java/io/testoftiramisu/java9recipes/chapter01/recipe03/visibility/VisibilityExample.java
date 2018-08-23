@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe03;
+package io.testoftiramisu.java9recipes.chapter01.recipe03.visibility;
 
 /** An example of how to control field visibility with private keyword. */
 class InnerClass {

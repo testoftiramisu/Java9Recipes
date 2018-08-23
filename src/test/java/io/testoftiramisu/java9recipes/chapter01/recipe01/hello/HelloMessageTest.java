@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe01;
+package io.testoftiramisu.java9recipes.chapter01.recipe01.hello;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

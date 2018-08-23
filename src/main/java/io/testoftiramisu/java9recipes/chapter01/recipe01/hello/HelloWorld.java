@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe01;
+package io.testoftiramisu.java9recipes.chapter01.recipe01.hello;
 
 /**
  * Demonstrates an usage of {@link HelloMessage} class by setting the message value and by showing

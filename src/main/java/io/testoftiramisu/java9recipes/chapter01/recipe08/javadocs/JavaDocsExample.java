@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter01.recipe08;
+package io.testoftiramisu.java9recipes.chapter01.recipe08.javadocs;
 
 import java.math.BigInteger;
 
