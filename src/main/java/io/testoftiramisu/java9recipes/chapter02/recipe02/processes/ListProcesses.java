@@ -1,4 +1,4 @@
-package io.testoftiramisu.java9recipes.chapter02.recipe02.osprocesses;
+package io.testoftiramisu.java9recipes.chapter02.recipe02.processes;
 
 import java.time.Duration;
 import java.util.Optional;
